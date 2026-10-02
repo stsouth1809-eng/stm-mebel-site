@@ -2,8 +2,7 @@
 const STM_CONFIG = {
   phoneDisplay: "+7 (391) 240-12-41",
   phoneLink: "tel:+73912401241",
-  whatsappLink: "https://wa.me/73912401241",
-  instagramLink: "https://www.instagram.com/stm_mebel24/",
-  instagramLabel: "Наши проекты в Instagram*",
+  maxLink: "https://max.ru/join/LeVaJe6jK-tEKHq-Q4KKEUufJKkOvVhUwVHgn8WNzmk",
+  maxLabel: "Наши проекты в MAX",
   city: "Красноярск"
 };
